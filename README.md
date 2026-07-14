@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/arkabisai/DSA/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/arkabisai/DSA/tree/master/0012-integer-to-roman) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arkabisai/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/arkabisai/DSA/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/arkabisai/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
