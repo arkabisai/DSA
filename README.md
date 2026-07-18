@@ -45,9 +45,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/arkabisai/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arkabisai/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arkabisai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/arkabisai/DSA/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/arkabisai/DSA/tree/master/0065-valid-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arkabisai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/arkabisai/DSA/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/arkabisai/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
