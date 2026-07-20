@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arkabisai/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arkabisai/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/arkabisai/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/arkabisai/DSA/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arkabisai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/arkabisai/DSA/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/arkabisai/DSA/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/arkabisai/DSA/tree/master/0125-valid-palindrome) |
 ## Backtracking
 |  |
 | ------- |
