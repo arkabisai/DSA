@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/arkabisai/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/arkabisai/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arkabisai/DSA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/arkabisai/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/arkabisai/DSA/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arkabisai/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arkabisai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/arkabisai/DSA/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/arkabisai/DSA/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/arkabisai/DSA/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/arkabisai/DSA/tree/master/0125-valid-palindrome) |
 ## Backtracking
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arkabisai/DSA/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/arkabisai/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
